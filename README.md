@@ -111,7 +111,7 @@ Configure Webpack to bundle your project
 3. From the command line/terminal, run `npm run build` for webpack to bundle your project
 
 > The `webpack.config.js` file is provided for you, but it would be a good idea to inspect the contents of that file to see the basic configuration that this project has in regards to webpack bundling.
-
+np
 ### Exercise 3: Create a Car Class
 
 1. Create a new file in your `src/` folder called `car.js`
